@@ -1,4 +1,4 @@
-# Strawberry-Oatmeal
+# module-1-challenge
 
 Description: 
 Modify starter code for a more accessibile website and to assure all elements follow logical structure. 
