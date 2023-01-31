@@ -3,12 +3,12 @@
 Description: 
 Modify starter code for a more accessibile website and to assure all elements follow logical structure. Reworked existing HTML and CSS code by consolidating CSS selectors and organzing the HTML code is a better senmatic structure. 
 Refactored code must meet these standards: 
--Meets accessibility standards
--Contains semantic HTML elements
--HTML elements follow a logical structure independent of styling and positioning
--Accessible alt attributes on image elements
--Heading attributes fall in sequential order
--Title element is concise and descriptive
+- Meets accessibility standards
+- Contains semantic HTML elements
+- HTML elements follow a logical structure independent of styling and positioning
+- Accessible alt attributes on image elements
+- Heading attributes fall in sequential order
+- Title element is concise and descriptive
 
 ## User Stroy Technology Used
 ```
@@ -33,9 +33,10 @@ THEN I find a concise, descriptive title
 ```
 
 ## Technology Used
--CSS
--HTML 5
+- CSS
+- HTML 5
 
 
-screenshot: file:///C:/Users/19514/Downloads/screencapture-file-C-Users-19514-UCR-VIRT-FSF-PT-05-2022-U-LOLC-01-HTML-Git-CSS-02-Challenge-Develop-index-html-2022-06-03-19_38_23.pdf
+## Screenshot: 
+![screencapture-file-C-Users-19514-chickenwing-index-html-2023-01-30-18_07_21](https://user-images.githubusercontent.com/105468134/215641990-0924d3a7-16ab-4052-844e-35fdbc95d02c.png)
 
