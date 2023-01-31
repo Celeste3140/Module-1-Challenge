@@ -10,7 +10,7 @@ Refactored code must meet these standards:
 -Heading attributes fall in sequential order
 -Title element is concise and descriptive
 
-## User Stroy 
+## User Stroy Technology Used
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
